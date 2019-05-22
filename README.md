@@ -37,8 +37,8 @@ List of resources to learn smart contract hacking.
 <li><a href="https://youtu.be/WIEessi3ntk">DEF CON 25 - Konstantinos Karagiannis - Hacking Smart Contracts</a></li>
 <li><a href="https://medium.com/@peckshield/alert-new-batchoverflow-bug-in-multiple-erc20-smart-contracts-cve-2018-10299-511067db6536">batchOverflow Bug</a></li>
 <li><a href="https://medium.com/@JusDev1988/reentrancy-attack-on-a-smart-contract-677eae1300f2">Reentrancy Attack</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://blockgeeks.com/guides/underflow-attacks-smart-contracts/">Underflow Attacks </a></li>
+<li><a href="https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620">Predicting Random Numbers</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 
