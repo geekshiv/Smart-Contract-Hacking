@@ -14,13 +14,25 @@ List of resources to learn smart contract hacking.
 <li>Smart contracts - Simply Explained <br> https://youtu.be/ZE2HxTmxfrI </li>
 <li>Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017 <br> https://youtu.be/WSN5BaCzsbo </li>
 
+
 <h2> DApp </h2>
+
 <li> <a href="http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial">The Ultimate Ethereum Dapp Tutorial (How to Build a Full Stack Decentralized Application Step-By-Step)</a></li>
 
 <h3>Solidity</h3>
+
 <li><a href="https://solidity.readthedocs.io/en/v0.5.8/">Solidity - Docs </a> </li>
 <li><a href="https://cryptozombies.io/">CryptoZombies </a></li>
 
 
 <h2> CTF / War Games </h2>
+
 <li> <a href="https://ethernaut.zeppelin.solutions/">Ethernaut</a> </li>
+
+
+<h2> Vulnerabilities </h2>
+
+<li><a href="https://www.owasp.org/index.php/Smart_Contract_Top_10">Smart Contract Top 10</a></li>
+<li><a href="https://blog.zeppelin.solutions/tagged/security">Audit Reports</a></li>
+<li><a href="https://youtu.be/WIEessi3ntk">DEF CON 25 - Konstantinos Karagiannis - Hacking Smart Contracts</a></li>
+<li><a href=""></a></li>
