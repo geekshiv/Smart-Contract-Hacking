@@ -19,3 +19,6 @@ List of resources to learn smart contract hacking.
 <h3>Solidity</h3>
 <li><a href="https://solidity.readthedocs.io/en/v0.5.8/">Solidity - Docs </a> </li>
 <li><a href="https://cryptozombies.io/">CryptoZombies </a></li>
+
+
+<h2> CTF / War Games </h2>
