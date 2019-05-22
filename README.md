@@ -14,4 +14,8 @@ List of resources to learn smart contract hacking.
 <li>Smart contracts - Simply Explained <br> https://youtu.be/ZE2HxTmxfrI </li>
 <li>Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017 <br> https://youtu.be/WSN5BaCzsbo </li>
 
-<h2> DApp </h1>
+<h2> DApp </h2>
+
+<h3>Solidity</h3>
+<li><a href="https://solidity.readthedocs.io/en/v0.5.8/">Solidity - Docs </a> </li>
+<li><a href="https://cryptozombies.io/">CryptoZombies </a></li>
