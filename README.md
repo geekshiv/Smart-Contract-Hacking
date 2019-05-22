@@ -35,4 +35,10 @@ List of resources to learn smart contract hacking.
 <li><a href="https://www.owasp.org/index.php/Smart_Contract_Top_10">Smart Contract Top 10</a></li>
 <li><a href="https://blog.zeppelin.solutions/tagged/security">Audit Reports</a></li>
 <li><a href="https://youtu.be/WIEessi3ntk">DEF CON 25 - Konstantinos Karagiannis - Hacking Smart Contracts</a></li>
+<li><a href="https://medium.com/@peckshield/alert-new-batchoverflow-bug-in-multiple-erc20-smart-contracts-cve-2018-10299-511067db6536">batchOverflow Bug</a></li>
+<li><a href="https://medium.com/@JusDev1988/reentrancy-attack-on-a-smart-contract-677eae1300f2">Reentrancy Attack</a></li>
 <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
