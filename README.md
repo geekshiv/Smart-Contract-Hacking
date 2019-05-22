@@ -25,10 +25,10 @@ List of resources to learn smart contract hacking.
 <li><a href="https://cryptozombies.io/">CryptoZombies </a></li>
 
 
-<h2> CTF / War Games </h2>
+<h2> Challenges / War Games </h2>
 
 <li> <a href="https://ethernaut.zeppelin.solutions/">Ethernaut</a> </li>
-<li><a href=""></a></li>
+<li><a href="https://github.com/thec00n/Smart-Contract-Hacker-Playground"></a>Smart Contract Hacker Playground </li>
 
 <h2> Vulnerabilities and Misc Resources</h2>
 
