@@ -11,3 +11,7 @@ List of resources to learn smart contract hacking.
 <h3>Smart Contract 101</h3>
 
 <li>What is Smart Contracts ? The Complete Guide <br> https://thecoinmill.com/what-is-smart-contracts/ </li>
+<li>Smart contracts - Simply Explained <br> https://youtu.be/ZE2HxTmxfrI </li>
+<li>Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017 <br> https://youtu.be/WSN5BaCzsbo </li>
+
+<h2> DApp </h1>
