@@ -22,3 +22,4 @@ List of resources to learn smart contract hacking.
 
 
 <h2> CTF / War Games </h2>
+<li> <a href="https://ethernaut.zeppelin.solutions/">Ethernaut</a> </li>
