@@ -17,6 +17,7 @@ List of resources to learn smart contract hacking.
 
 <h2> DApp </h2>
 
+<li><a href="https://youtu.be/CDQX8inMCt0">What is a Dapp?</a></li>
 <li> <a href="http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial">The Ultimate Ethereum Dapp Tutorial (How to Build a Full Stack Decentralized Application Step-By-Step)</a></li>
 
 <h3>Solidity</h3>
