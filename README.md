@@ -5,15 +5,14 @@ List of resources to learn smart contract hacking.
 
 <h2>Blockchain 101</h2>
 
-<li> How does a blockchain work - Simply Explained <br> https://youtu.be/SSo_EIwHSd4 </li>
-<li>How the blockchain will radically transform the economy | Bettina Warburg <br> https://youtu.be/RplnSVTzvnU</li>
+<li><a href="https://youtu.be/SSo_EIwHSd4">How does a blockchain work - Simply Explained</a></li>
+<li><a href="https://youtu.be/RplnSVTzvnU">How the blockchain will radically transform the economy | Bettina Warburg</a></li>
 
 <h3>Smart Contract 101</h3>
 
-<li>What is Smart Contracts ? The Complete Guide <br> https://thecoinmill.com/what-is-smart-contracts/ </li>
-<li>Smart contracts - Simply Explained <br> https://youtu.be/ZE2HxTmxfrI </li>
-<li>Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017 <br> https://youtu.be/WSN5BaCzsbo </li>
-
+<li><a href="https://thecoinmill.com/what-is-smart-contracts/">What is Smart Contracts ? The Complete Guide</a></li>
+<li><a href="https://youtu.be/ZE2HxTmxfrI">Smart contracts - Simply Explained</a></li>
+<li><a href="https://youtu.be/WSN5BaCzsbo">Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017</a></li>
 
 <h2> DApp </h2>
 
