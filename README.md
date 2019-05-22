@@ -15,6 +15,7 @@ List of resources to learn smart contract hacking.
 <li>Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017 <br> https://youtu.be/WSN5BaCzsbo </li>
 
 <h2> DApp </h2>
+<li> <a href="The Ultimate Ethereum Dapp Tutorial (How to Build a Full Stack Decentralized Application Step-By-Step)">http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial</a></li>
 
 <h3>Solidity</h3>
 <li><a href="https://solidity.readthedocs.io/en/v0.5.8/">Solidity - Docs </a> </li>
