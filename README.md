@@ -30,7 +30,7 @@ List of resources to learn smart contract hacking.
 <li> <a href="https://ethernaut.zeppelin.solutions/">Ethernaut</a> </li>
 
 
-<h2> Vulnerabilities </h2>
+<h2> Vulnerabilities and Misc Resources</h2>
 
 <li><a href="https://www.owasp.org/index.php/Smart_Contract_Top_10">Smart Contract Top 10</a></li>
 <li><a href="https://blog.zeppelin.solutions/tagged/security">Audit Reports</a></li>
