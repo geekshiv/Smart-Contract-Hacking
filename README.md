@@ -28,7 +28,7 @@ List of resources to learn smart contract hacking.
 <h2> Challenges / War Games </h2>
 
 <li> <a href="https://ethernaut.zeppelin.solutions/">Ethernaut</a> </li>
-<li><a href="https://github.com/thec00n/Smart-Contract-Hacker-Playground"></a>Smart Contract Hacker Playground </li>
+<li><a href="https://github.com/thec00n/Smart-Contract-Hacker-Playground">Smart Contract Hacker Playground </a></li>
 
 <h2> Vulnerabilities and Misc Resources</h2>
 
